@@ -20,7 +20,3 @@ ul {
     gap: 28px;
 }
 
-li:hover {
-    background-color: black;
-    color: white;
-}

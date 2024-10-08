@@ -19,3 +19,8 @@ ul {
     align-items: center;
     gap: 28px;
 }
+
+ul:hover {
+    background-color: black;
+    color: white;
+}

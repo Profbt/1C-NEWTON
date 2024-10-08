@@ -15,7 +15,7 @@ ul {
     color: black;
     font-size: 40px;
     text-transform: uppercase;
-    justify-content: center;
+    
     align-items: center;
     gap: 28px;
 }
